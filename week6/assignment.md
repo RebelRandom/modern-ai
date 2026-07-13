@@ -104,10 +104,3 @@ Work strictly in `week6/` (backend, frontend, logic, tests). Avoid changing othe
    - (if applicable) Multi‑agent notes: roles, coordination strategy, and concurrency wins/risks/failures
    - How you used the automation (what pain point it resolves or accelerates)
 
-
-
-## SUBMISSION INSTRUCTIONS
-1. Make sure you have all changes pushed to your remote repository for grading.
-2. **Make sure you've added both brentju and febielin as collaborators on your assignment repository.**
-2. Submit via Gradescope. 
-
